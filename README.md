@@ -18,7 +18,7 @@
 <img src="https://github.com/cwt2001/backup_tools/assets/69576774/fd4ee83e-0b1b-495b-a7d1-af4a6390ea96" width="500" />
 
 窗口中的各个部分含义如下
-- 界面中间的文本框：当前`config.txt`中内容，文本框内的内容可以直接更改
+- 界面中间的文本框：最初显示的是`config.txt`中内容，文本框内的内容可以直接更改
 - `Source Folder`按钮：选择源文件夹
 - `Dest Folder`按钮：选择目标文件夹
 - `Add to config file`按钮：将上面选择的源文件夹和目标文件夹对应路径加到`config.txt`中
