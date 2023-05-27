@@ -1,9 +1,9 @@
 # A Backup tool
  backup some folders to other folders using python scripts
  
-**注意：** 脚本是为给电脑做定期备份而设计的。
+**脚本是为给电脑做定期备份而设计的。** 
 
-**仓库内容：**
+**内容：**
 
 主要包含两个`gui.py`和`backup.py`两个python脚本，一个配置文件`config.txt`。每个文件简要介绍如下
  
