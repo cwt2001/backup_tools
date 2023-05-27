@@ -14,7 +14,7 @@
 **使用方法如下：**
 
 运行`gui.py`，会弹出窗口
-<img src="https://github.com/cwt2001/backup_tools/assets/69576774/fd4ee83e-0b1b-495b-a7d1-af4a6390ea96" width="200" />
+<img src="https://github.com/cwt2001/backup_tools/assets/69576774/fd4ee83e-0b1b-495b-a7d1-af4a6390ea96" width="500" />
 
 窗口中的各个部分含义如下
 - 界面中间的文本框：当前`config.txt`中内容，文本框内的内容可以直接更改
